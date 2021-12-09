@@ -1,4 +1,6 @@
-export default [
+ //enlist-disable-next-line
+ 
+ export default [
     {
         id:1,
         name:"Santosh",
